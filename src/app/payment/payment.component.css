@@ -1,0 +1,21 @@
+html,body{
+    background:#fff !important;
+    color:white;
+}
+div.modal{
+
+}
+div.flo{
+    position:fixed;
+    top:55px;
+    left:200px;
+    height:100%;
+    width:100%;
+    background: white;
+}
+div.flo button{
+    margin-top: 75px;
+    width: 50%;
+ 
+    margin-left: 20%;
+}
